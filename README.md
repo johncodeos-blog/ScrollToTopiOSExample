@@ -2,4 +2,4 @@
 # ScrollToTopiOSExample
 How to add Scroll To Top in UITableView and UICollectionView in iOS using Swift
 
-https://johncodeos.com/how-to-add-scroll-to-top-in-uitableview-and-uicollectionview-in-ios-using-swift
+https://johncodeos.com/how-to-add-scroll-to-top-in-tableview-and-collectionview-in-ios-using-swift
